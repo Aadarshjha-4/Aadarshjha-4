@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Python fundamentals, NumPy & Pandas, basic DSA, and ML basics.<br><br>👯 I’m looking to collaborate on<br>Beginner Python & Data Analysis projects and small open-source tasks.<br><br>🤝 I’m looking for help with<br>Writing clean Python code and building real projects.<br><br>🌱 I’m currently learning<br>Python, Data Structures, and Machine Learning fundamentals.<br><br>💬 Ask me about<br>Self-studying from a Tier-5 college and managing coding with BTech.<br><br>⚡ Fun fact<br>No fancy college tag — only skill building.
+🔭 I’m currently working on<br>Python fundamentals, NumPy & Pandas, basic DSA, and ML basics.<br><br>👯 I’m looking to collaborate on<br>Beginner Python & Data Analysis projects and small open-source tasks.<br><br>🤝 I’m looking for help with<br>Writing clean Python code and building real projects.<br><br>🌱 I’m currently learning<br>Python, Data Structures, and Machine Learning fundamentals.<br><br>💬 Ask me about<br>Self-studying from a Tier-3 college and managing coding with BTech.<br><br>⚡ Fun fact<br>No fancy college tag — only skill building.
 
 
 ## 🌐 Socials:
